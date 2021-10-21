@@ -1,0 +1,17 @@
+.item {
+    width: 90px;
+    height: 70px;
+    background-color: orangered;
+    margin: 3px 10px 0px 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    font-family: Calibri;
+    font-size: 22px;
+}
+
+.row {
+    clear: both;
+}
